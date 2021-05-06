@@ -1,0 +1,12 @@
+{ "name": "Superman",
+  "age" : 79,
+  "secretIdentity" : "Clark Kent",
+  "powers" : [
+      "Super strength", 
+      "heat vision",
+      "flight",
+      "x-ray vision",
+      "super speed"
+    ]
+    }
+    
